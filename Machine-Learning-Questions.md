@@ -9,4 +9,6 @@
 7. What is the difference between KNN and K-means Clustering?
 8. What is Support Vector Machine?
 9. What is PCA? When do you use it?
+10. What's the LDA algorithm?
+11. What is t-SNE?
 
