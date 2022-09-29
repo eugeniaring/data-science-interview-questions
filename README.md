@@ -5,5 +5,5 @@ The questions are split up into different topics:
 
 * [Machine Learning Questions](https://github.com/eugeniaring/data-science-interview-questions/blob/main/Machine-Learning-Questions.md)
 * [Deep Learning Questions](https://github.com/eugeniaring/data-science-interview-questions/blob/main/Deep-Learning-Questions.md)
-* [Optimization Questions]
+* [Optimization Questions](https://github.com/eugeniaring/data-science-interview-questions/blob/main/optimization-questions.md)
 * [Statistics Questions](https://github.com/eugeniaring/data-science-interview-questions/blob/main/Statistics-Questions.md)
