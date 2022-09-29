@@ -5,3 +5,4 @@
 3. What are the most known ensemble algorithms?
 4. Difference between boosting and bagging.
 5. What is pruning in a decision tree.
+6. What is Random Forest? How does it work?
